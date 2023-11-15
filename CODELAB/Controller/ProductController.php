@@ -42,3 +42,5 @@ class ProductController extends Controller
         return $this->responseFormatter(200, "Success", $response);
     }
 }
+
+?>
